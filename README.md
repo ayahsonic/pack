@@ -1,2 +1,5 @@
-# pack
-setingan pack
+hargapack = 25000 -- HARGA PACK
+namapack = "garuda_chest" -- NAMA PACK
+MinItemPack = 1 --APABILA JUMLAH ITEM YANG ADA DIDALAM iditempack LEBIH BESAR DARIPADA MinItemPack, MAKA BOTNYA MULAI DROP PACKNYA KE STORAGE!
+maxbuy = 1 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA GEMSNYA MASIH CUKUP!
+iditempack = {12566}
